@@ -44,25 +44,6 @@ XGBoost, NER, Pandas, NumPy
 
 ---
 
-## ⚙️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/Virti24/CloudSentinel.git  
-cd CloudSentinel  
-
-Run Frontend:
-
-cd cloud-sentinel-hub-main  
-npm install  
-npm run dev  
-
-Run Backend:
-
-python main.py  
-
----
-
 ## 📌 Notes
 
 - Dataset and sensitive files are excluded using `.gitignore`  
